@@ -79,7 +79,7 @@ A aplicação é composta de 2 Rotas principais e suas sub-rotas, São elas :
 
 **Rota:** “/livros/:id”
 
-**Método: put**
+**Método: delete**
 
 **Exemplo:** **http://localhost:3000/livros/6350567491e3225d923f2950**
 
@@ -137,7 +137,7 @@ A aplicação é composta de 2 Rotas principais e suas sub-rotas, São elas :
 
 **Rota:** “/autores/:id”
 
-**Método: put**
+**Método: delete**
 
 **Exemplo:** **http://localhost:3000/autores/6350b9c756d80e821933efb4**
 
