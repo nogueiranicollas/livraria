@@ -23,7 +23,7 @@ Esse projeto consiste num CRUD referente há livros dentro de uma livraria, com 
 
 3 - Com o comando npm start é possível realizar a execução da aplicação
 
-4 - Dentro da pasta existe um arquivo do insomnia com as rotas utilizadas divididas entre livros e autores.
+4 - Dentro da pasta existe um arquivo do insomnia com as rotas utilizadas divididas entre livros e autores. Este arquivo pode ser importado e executado dentro do seu insomnia para utilização das rotas
 
 # 🗺️ - Mapeamento de Rotas
 
